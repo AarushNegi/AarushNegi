@@ -46,9 +46,8 @@ I'm currently looking for opportunities in cybersecurity, security engineering, 
 
 ### 📫 Reach me
 
-- Portfolio: [link]
-- LinkedIn: [link]
-- Email: [email]
+- LinkedIn: www.linkedin.com/in/aarushnegi2305
+- Email: aarushhemantnegi@gmail.com
 
 ---
 <sub>Currently building: Sentinel · Exploring: offensive security tooling</sub>
